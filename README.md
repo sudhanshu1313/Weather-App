@@ -6,7 +6,7 @@
 
 Stay ahead of the weather with our new Weather App! Powered by real-time data from OpenWeatherMap, our app provides accurate weather information for cities around the world. Simply enter the name of your city and get instant updates on temperature, humidity, and wind speed.
 
-<hr></hr>
+
 <h4>Key Features: </h4>
 <ul>
   <li>Search Functionality: Easily search for weather conditions in any city.</li>
