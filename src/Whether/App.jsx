@@ -1,12 +1,11 @@
-import React from 'react'
-import Teamapp from './compones/Teamapp'
+import React from "react";
+import Teamapp from "./compones/Teamapp";
 function App() {
   return (
     <>
-      <Teamapp/>
-      
+      <Teamapp />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
