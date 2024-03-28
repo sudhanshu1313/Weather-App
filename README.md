@@ -20,4 +20,4 @@ Stay ahead of the weather with our new Weather App! Powered by real-time data fr
 
 <img src="https://github.com/sudhanshu1313/Weather-App/blob/main/app01.png" alt="Shopping Mart 1" width="330" height="400px">
 
-<img src="https://github.com/sudhanshu1313/Weather-App/blob/main/app02.png" alt="Shopping Mart 2" width="340" height="400px">
+<img src="https://github.com/sudhanshu1313/Weather-App/blob/main/app03.png" alt="Shopping Mart 2" width="340" height="400px">
