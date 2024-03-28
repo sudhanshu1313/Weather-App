@@ -1,0 +1,38 @@
+
+.MainDIV{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+
+.Logo{
+
+    width: 300px;
+   
+
+}
+.Logo:hover{
+    border: 1px solid #581845;
+    box-shadow: 3px 3px 3px gray;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs;
+    font-weight: bold;
+    color: #581845;
+    position: relative;
+    top: 30px;
+    margin-left: -60px;
+}
+h3:hover{
+    text-shadow: 2px 2px 2px rgb(166, 166, 166);
+}
+.Paregraph{
+    position: relative;
+    left: -60px ;
+    top: 30px;
+}
+.Text{
+    color: #581845 !important;
+    text-align: justify !important;
+  
+}

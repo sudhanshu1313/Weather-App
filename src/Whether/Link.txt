@@ -1,0 +1,13 @@
+c4b809212a07f2a5a0c3b3d8ddb39c53
+
+https://api.openweathermap.org/data/2.5/weather?id={city id}&appid={API key}
+
+https://api.openweathermap.org/data/2.5/weather?q=London&appid={API key}
+
+
+https://api.openweathermap.org/data/2.5/weather?q=London&appid=c4b809212a07f2a5a0c3b3d8ddb39c53
+
+
+//I have used this link
+
+https://api.openweathermap.org/data/2.5/weather?q=pune&appid=c4b809212a07f2a5a0c3b3d8ddb39c53&&units=metric

@@ -1,0 +1,29 @@
+.Buttons{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+   
+}
+.AllMovies{
+   position: relative;
+   left: 80px;
+  
+ 
+}
+
+@media (min-width: 350px) {
+    input{
+     /* display: none !important; */
+     margin-top: 10px !important;
+    }
+  }
+  /* @media (min-width: 100vh ) {
+    input{
+     width: 350px !important;
+    }
+  }
+  @media (min-width: 350px) {
+    a{
+     margin-left: 0px !important;
+    }
+  } */

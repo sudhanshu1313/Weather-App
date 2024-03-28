@@ -1,0 +1,27 @@
+.cartItem{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin-top: 20px;
+    width: 1000px;
+    border: 0.5px solid rgb(5, 71, 73);
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px  gray;
+}
+
+.Cart-Btn{
+    background-color: white;
+    color:rgb(5, 71, 73) ;
+   border: 0.5px solid rgb(213, 10, 60) ;
+    padding: 10px;
+    border-radius: 3px;
+}
+.Cart-Btn:hover{
+    background-color: rgb(213, 10, 60);
+    color: white;
+
+}
+
+
+/* rgb(5, 71, 73) */
+/* rgb(213, 10, 60) red color*/ 

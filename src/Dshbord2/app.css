@@ -1,0 +1,19 @@
+.centerscreen{
+
+display:flex;
+justify-content: center;
+align-items: center;
+width:300px;
+padding:20px;
+background-color: bisque;
+}
+.nav{
+
+    padding:20px;
+    background-color: azure;
+}
+
+a{
+margin:10px;
+padding:10px;
+}

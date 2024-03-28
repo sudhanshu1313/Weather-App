@@ -1,0 +1,38 @@
+.Rightbar5{
+    margin-top: 10px;
+    margin-left: 600px !important;
+}
+.MainDIV4{
+    background-color: #ffffff;
+    border: 2px solid #0081a7;
+    width: 350px !important;
+    height: 380px;
+    padding: 15px;
+    position: relative;
+    top: 110px;
+   border-radius: 5px;
+   color: #000000;
+   text-align: center;
+   
+}
+.BTN1{
+    background-color: rgb(10, 91, 162);
+    padding: 10px;
+    color: white;
+    border: none;
+    font-weight: bold;
+    width: 300px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.BTN1:hover{
+    background-color: rgb(53, 135, 229);
+    padding: 10px;
+    color: white;
+    border: none;
+    font-weight: bold;
+    width: 300px;
+    border-radius: 5px;
+    cursor: pointer;
+}

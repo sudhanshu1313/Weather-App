@@ -1,0 +1,52 @@
+.MainDIV3{
+    background-color: #ffffff;
+    border: 2px solid #0081a7;
+    width: 350px !important;
+    height: 380px;
+    padding: 15px;
+    position: relative;
+    top: 110px;
+   border-radius: 5px;
+   color: #000000;
+   
+}
+
+input{
+    padding: 5px;
+    width: 280px;
+    margin: 5px !important;
+    border: none;
+    border-bottom: 2px solid #0081a7;
+    font-weight: bold;
+}
+.BTN1{
+    background-color: rgb(10, 91, 162);
+    padding: 10px;
+    color: white;
+    border: none;
+    font-weight: bold;
+    width: 300px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.BTN1:hover{
+    background-color: rgb(53, 135, 229);
+    padding: 10px;
+    color: white;
+    border: none;
+    font-weight: bold;
+    width: 300px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.LastHeadding2{
+    margin-top: 120px;
+    background-color: rgba(255, 255, 255, 0.75);
+    width: 350px !important;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-bottom: 40px;
+}

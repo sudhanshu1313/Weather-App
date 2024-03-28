@@ -1,0 +1,155 @@
+
+
+.MainDIV{
+    margin-top: 130px !important;
+    z-index: -1;
+    margin-bottom: 20px !important;
+}
+.WELCOME{
+    color: #581845;
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px  rgb(153, 153, 153);
+
+}
+
+.BTN{
+  display: flex;
+  justify-content: center;  
+     
+}
+.HeadingBTN{
+    background-color: #581845;
+    padding: 7px;
+    color: whitesmoke;
+   border-color: #581845;
+    border-radius: 3px;
+    margin: 10px;
+    box-shadow: 3px 3px 3px rgb(154, 151, 151);
+}
+.HeadingBTN:hover{
+    background-color: white;
+    border: 1px solid #581845;
+    color: #581845;
+    padding: 7px;
+    border-radius: 3px;
+   
+}
+
+@media (min-width: 350px) {
+    .BTN{
+        display: inline-block;
+        
+         
+    }
+    .HeadingBTN{
+        width: 400px;
+    }
+    .Country{
+        width: 400px;
+        position: relative;
+        left: 8px !important;
+    }
+
+  }
+
+  @media (min-width: 100vh) {
+    .BTN{
+        display: flex;
+        justify-content: center; 
+    }
+    .HeadingBTN{
+        width: 150px;
+    }
+    .Country{
+        width: 120px;
+        position: relative;
+        left: -8px !important;
+    }
+
+  }
+
+
+
+
+
+.ItmsBTN{
+    background-color: #581845;
+    padding: 5px;
+    color: whitesmoke;
+    border-color: #581845;
+    border-radius: 3px;
+
+}
+
+.ItmsBTN:hover{
+    background-color: white;
+    border: 1px solid #581845;
+    color: #581845;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+
+
+.HomeCart{
+    display: inline-block;
+    justify-content: space-around;
+    border-color: #581845;
+    margin-left: 20px;
+    margin: 10px;
+    
+ 
+}
+.CART{
+    border-color: #581845 !important;
+    
+    background-image: url("https://img.freepik.com/premium-photo/different-cooking-ingredients-spices-white-background_185193-88914.jpg?size=626&ext=jpg&ga=GA1.1.1525214857.1689427059&semt=sph");
+    background-repeat: no-repeat;
+  
+}
+.CART:hover{
+    box-shadow: 3px 3px 3px rgb(154, 151, 151) !important;
+}
+
+
+@media (min-width: 350px) {
+    .CART{
+        display: inline-block; 
+        text-align: center;
+        padding: 10px;
+         
+    }
+  
+    img{
+        width: 200px !important;
+
+    }
+    p{
+        margin-left: -200px !important;
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 0.1 !important;
+    }
+    .ItmsBTN{
+        margin-left: -180px !important;
+    }
+
+  }
+
+  @media (min-width: 100vh) {
+    .CART{
+        display: flex;
+        justify-content: center; 
+        width: 550px !important;
+        margin-left: 30px;
+
+    }
+    img{
+        width: 200px !important;
+        border-radius: 10px !important;
+        margin-top: 10px;
+    }
+  
+
+  }

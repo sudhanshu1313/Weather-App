@@ -1,0 +1,173 @@
+[
+    
+    {   
+        "id":"1",
+        "image": "https://b.zmtcdn.com/data/dish_photos/8f9/295ede32518015ed2cb7dbb8b72548f9.jpg?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/SZByh7nXp1U",
+        "foodname": "Veg Biryani",
+        "prise": "₹ 290.89",
+        "category":"vag",
+        "about":"Chutney+Panchmel Dal+Churma+2 Bati+Aloo Subzi+Adrak Harimirch+Mouth Freshner",
+        "country":"india"
+    }, 
+    {   
+        "id":"2",
+        "image": "https://b.zmtcdn.com/data/dish_photos/2fb/7a219152a6494ff72334b847fbdfb2fb.jpg?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/bXgxzzNm0U8",
+        "foodname": "Veg Fried Rice",
+        "prise": "₹ 173.68",
+        "category":"vag",
+        "about":"Veg Fried Rice",
+        "country":"india"
+    }, 
+    {   
+        "id":"3",
+        "image": "https://b.zmtcdn.com/data/dish_photos/8cb/1e82d2593b7af2a8a017ee4d7e8eb8cb.jpg?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/cqLZ8j8DA_I",
+        "foodname": "Veg Chilli Garlic Fried Rice",
+        "prise": "₹ 186.55",
+        "category":"vag",
+        "about":"Fried Rice Flavoured With Garlic and Chili",
+        "country":"india"
+    }, 
+    {   
+        "id":"4",
+        "image": "https://b.zmtcdn.com/data/dish_photos/1ba/80fc62361544651acf3803b2f9bdc1ba.jpg?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/gWJePLW3ygc",
+        "foodname": "Veg Steamed Momos",
+        "prise": "₹ 122.43",
+        "category":"vag",
+        "about":"Veg Steamed Momos",
+        "country":"india"
+    }, 
+    {   
+        "id":"5",
+        "image": "https://b.zmtcdn.com/data/dish_photos/d54/3370c6fa04e96b9a11772ecb14aa1d54.jpg?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/HPGnzNN2Iok",
+        "foodname": "Chicken",
+        "prise": "₹ 399.89",
+        "category":"nonvag",
+        "about":"Chicken cubes marinated in a Hyderabadi masalas deep fried and tossed in a tangy sauce of curd and spices with curry leaves a Deccan specialty.",
+        "country":"india"
+    }, 
+    {   
+        "id":"6",
+        "image": "https://b.zmtcdn.com/data/dish_photos/05e/1130d079ff446fb520b1b2db7a7f405e.jpg?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/00Sgta1XFf8",
+        "foodname": "Chicken Ghee Roast",
+        "prise": "₹ 419",
+        "category":"nonvag",
+        "about":"One of the rich and popular coastal dish perfect blend of spices freshly blended and tossed in chunky chicken pieces finished with desi ghee.",
+        "country":"india"
+    }, 
+    {   
+        "id":"7",
+        "image": "https://b.zmtcdn.com/data/dish_photos/45d/469a2e2f68bc6d3d0ac4631311e5645d.jpg?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/nbZTcADA3OU",
+        "foodname": "Chicken Seekh Kebab",
+        "prise": "₹ 369.45",
+        "category":"nonvag",
+        "about":"Minced chicken blended with Indian spices grilled over the charcoal flame in skewers",
+        "country":"india"
+    }, 
+    {   
+        "id":"8",
+        "image": "https://b.zmtcdn.com/data/dish_photos/2a2/081861a7f09a982f91f808dc7219b2a2.jpg?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/HxqLsf1dNtk",
+        "foodname": "Chicken Korma",
+        "prise": "₹ 100.44",
+        "category":"nonvag",
+        "about":"A rich Mughlai curry [to go with the biryani or ulte tawa ka parantha] made by marinating the main ingredients in yoghurt, cashew paste and fresh ground spices",
+        "country":"india"
+    }, 
+    {   
+        "id":"9",
+        "image": "https://b.zmtcdn.com/data/dish_photos/a28/c98acbba0c2ee4061ecdfee2a9d13a28.png?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/Nkndlln0j8c",
+        "foodname": "EVM McAloo Tikki Burger®",
+        "prise": "₹ 18.12",
+        "category":"vag",
+        "about":"EVM McAloo Tikki Burger®",
+        "country":"india"
+    }, 
+    {   
+        "id":"10",
+        "image": "https://b.zmtcdn.com/data/dish_photos/a36/66fc891f0259374e2f5b4ee5e9bcda36.png?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/_waktSAzubw",
+        "foodname": "Veg Maharaja Mac",
+        "prise": "₹ 70.12",
+        "category":"vag",
+        "about":"Veg Maharaja Mac",
+        "country":"india"
+    }, 
+    {   
+        "id":"11",
+        "image": "https://b.zmtcdn.com/data/dish_photos/505/5d704f293f6a37937bc5b36e0e2f0505.png?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/MZFHdBvJTdg",
+        "foodname": "Cheesy Fries",
+        "prise": "₹ 131.45",
+        "category":"",
+        "about":"Hi, it's cheese on this side! The all-time favourite fries with a generous dollop of cheesy yet smoky chipotle sauce.",
+        "country":"india"
+    }, 
+    {   
+        "id":"12",
+        "image": "https://b.zmtcdn.com/data/dish_photos/62d/b85c0086f7d9f52e7921b9825fa0162d.png?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/7UpgXyKA_-E",
+        "foodname": "Chicken McWings",
+        "prise": "₹ 219.56",
+        "category":"nonvag",
+        "about":"New Chicken McWings® in a lip-smacking Chilli and Lemon flavour.",
+        "country":"india"
+    }, 
+    {   
+        "id":"13",
+        "image": "https://b.zmtcdn.com/data/dish_photos/731/9ea3f28b175ab67cf8af2a44a962a731.jpg?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/C3Ipi9367lg",
+        "foodname": "Swirls of Sweetness Butterscotch Cake",
+        "prise": "₹ 499.23",
+        "category":"vag",
+        "about":"The melted butterscotch-infused cream with a moist sponge enhances the flavours of this magical cake. The swirls are enticing to the eyes.",
+        "country":"india"
+    }, 
+    {   
+        "id":"14",
+        "image": "https://b.zmtcdn.com/data/dish_photos/d76/7042e26bdc5db20f9dd70c455486bd76.jpg?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/145cvCTXi6A",
+        "foodname": "Chocolate Truffle Cake",
+        "prise": "₹ 528.23",
+        "category":"vag",
+        "about":"Indulge in the velvety, deep chocolate flavour of a truffle cake. A melt in your mouth quality that's hard to resist.",
+        "country":"india"
+    }, 
+    {   
+        "id":"15",
+        "image": "https://b.zmtcdn.com/data/dish_photos/4fa/1dd10225df21b7bfafaf6c9fa6f504fa.png?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/WAnsPtFX_W0",
+        "foodname": "Red Velvet Heart Cake",
+        "prise": "₹ 799.23",
+        "category":"vag",
+        "about":"The Audrey hepburn of desserts sophisticated, stylish and always in vogue. Wrapped in red velvet crumbs.",
+        "country":"india"
+    }, 
+    {   
+        "id":"16",
+        "image": "https://b.zmtcdn.com/data/dish_photos/6bb/b743c97571324f027ea852996b7bc6bb.jpg?fit=around|130:130&crop=130:130;*,*",
+        "video": "https://youtu.be/VM4wDrB06l4",
+        "foodname": "Pink Pineapple Cream Cake",
+        "prise": "₹ 599.23",
+        "category":"",
+        "about":"Infused with the tropical essence of pineapple and layered with a luscious pink cream that creates a perfect balance of sweetness and tanginess.",
+        "country":"india"
+    }, 
+    {   
+        "id":"",
+        "image": "",
+        "video": "",
+        "foodname": "",
+        "prise": "₹ ",
+        "category":"",
+        "about":"",
+        "country":""
+    }
+]
