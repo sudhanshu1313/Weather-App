@@ -14,6 +14,7 @@ Stay ahead of the weather with our new Weather App! Powered by real-time data fr
   <li>User-friendly Interface: Clean and intuitive design for a seamless user experience.</li>
 </ul>
 
+![Demo GIF]()
 
 
 
